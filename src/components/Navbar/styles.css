@@ -4,9 +4,9 @@
 }
 
 .nav-logo-text {
-  color: #00285F;
-  padding-right: 260px;
-;
+  color: #00285f;
+  padding-right: 90px;
+  margin-left: 100px;
 }
 
 .nav-logo-text:hover {
@@ -18,6 +18,7 @@
   font-size: 18px;
   width: 180px;
   justify-content: space-between;
+  margin-left: 740px;
 }
 
 .main-menu a {
@@ -27,11 +28,11 @@
 
 .main-menu a.active {
   font-weight: bold;
-  color: #00285F;
+  color: #00285f;
 }
 
 .main-menu a:hover {
-  color: #00285F;
+  color: #00285f;
 }
 
 .nav-login-logout {
@@ -45,7 +46,7 @@
 @media (min-width: 768px) {
   .nav-login-logout {
     display: unset;
-    color: #00285F;
+    color: #00285f;
     margin-right: 15px;
   }
 }

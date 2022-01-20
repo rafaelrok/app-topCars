@@ -1,5 +1,6 @@
 .product-card {
   margin-bottom: 30px;
+  width: 390px;
 }
 
 .card-top-container {
@@ -9,15 +10,53 @@
 }
 
 .card-top-container img {
-  width: 158px;
-  height: 158px;
+  width: 258px;
+  height: 200px;
 }
 
 .card-bottom-container {
-  padding: 15px 20px 30px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 16px 0;
 }
 
 .card-bottom-container h6 {
   font-size: 18px;
+  font-weight: bold;
   color: #263238;
+}
+
+.card-bottom-content p {
+  font-size: 14px;
+  font-weight: italic;
+  color: #585858;
+  padding: 0px 0px 0px 30px;
+}
+
+.btn-container {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.btn-container button {
+  border-radius: 5px;
+  margin: 20px 25px 15px 27px;
+  width: 340px;
+}
+
+.btn-content {
+  background-color: #00285F;
+  padding: 0px 45px 1px 45px;
+}
+
+.btn h6 {
+  color: #fff;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  text-transform: uppercase;
+  line-height: 16px;
 }

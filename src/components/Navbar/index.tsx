@@ -16,8 +16,8 @@ const Navbar = () => {
                     className="navbar-toggler"
                     type="button"
                     data-bs-toggle="collapse"
-                    data-bs-target="#dscatalog-navbar"
-                    aria-controls="dscatalog-navbar"
+                    data-bs-target="#topcar-navbar"
+                    aria-controls="topcar-navbar"
                     aria-expanded="false"
                     aria-label="Toggle navigation"
                 >

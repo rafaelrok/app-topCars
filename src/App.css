@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2? family = Open + Sans: ital, wght @ 0,400; 0,500; 0,700; 1,400; 1,500; 1,700 & display = swap');
 
 * {
   font-family: 'Open Sans', sans-serif;
@@ -27,14 +27,13 @@ a:hover {
 }
 
 .base-card {
-  background-color: #fff;
+  background-color: #EDEDED;
   box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
   border-radius: 10px;
 }
 
 .base-card-home {
-  background-color: #00285F;
-;
+  background-color: #00285f;
   box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
   border-radius: 10px;
 }
